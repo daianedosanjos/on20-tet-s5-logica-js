@@ -16,3 +16,6 @@ while (usuarioInformado != usuarioCadastrado || senhaInformada != senhaCadastrad
 		
 	
 }
+
+
+
